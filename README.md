@@ -11,7 +11,6 @@ The team embarked on a journey to design a solution that would democratize data 
 
 
 Chapter 3: Building Blocks of Empowerment
-
 Problem 1: Limited Data Access
 The team recognized that citizens needed easy access to government datasets. They integrated CKAN, a powerful data portal platform, into the repository. Citizens like Lerato could now effortlessly explore population statistics for Maseru District, enabling informed community planning.
 
@@ -20,12 +19,10 @@ Government service interactions needed to be simplified. The team integrated ERP
 
 
 Problem 3: Limited Data Understanding
-
 To make data more accessible, data visualization tools were incorporated. Nthabiseng, once overwhelmed by raw numbers, now created meaningful charts to analyze educational data in her region.
 
 
 Chapter 4: Bridging Barriers
-
 Problem 4: Language Barriers
 To ensure inclusivity, the team introduced multi-language support. Moshoeshoe and others could comfortably use the platform in Sesotho, eliminating language barriers.
 
